@@ -28,5 +28,6 @@ public class E4 {
         for (int i = 0; i < numero.length; i++) {
             System.out.println(numero[i]+"\t\t"+cuadrado[i]+"\t\t\t"+cubo[i]);
         }
+
     }
 }

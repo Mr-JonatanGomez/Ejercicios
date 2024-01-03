@@ -27,6 +27,8 @@ public class E4 {
         System.out.println("\n\nLAS COLUMNAS");
         for (int i = 0; i < numero.length; i++) {
             System.out.println(numero[i]+"\t\t"+cuadrado[i]+"\t\t\t"+cubo[i]);
+            // he mostrado para la fila (i0) lo que habia dentro de cada array diferente
+            // con el salto de linea pasaba a i1....
         }
 
     }

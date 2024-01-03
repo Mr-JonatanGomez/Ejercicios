@@ -9,7 +9,6 @@ public class E4 {
         int[] numero = new int[20];
         int[] cuadrado = new int[20];
         int[] cubo = new int[20];
-
         System.out.println("\n\nLOS NUMEROS: ");
         for (int i = 0; i < numero.length; i++) {
             numero [i] = (int) (Math.random()*100)+1;
@@ -25,12 +24,9 @@ public class E4 {
             cubo [i] = (int) Math.pow(numero[i], 3);
             System.out.print("\t" + cubo[i]+",");
         }
-
         System.out.println("\n\nLAS COLUMNAS");
         for (int i = 0; i < numero.length; i++) {
             System.out.println(numero[i]+"\t\t"+cuadrado[i]+"\t\t\t"+cubo[i]);
-
         }
-
     }
 }

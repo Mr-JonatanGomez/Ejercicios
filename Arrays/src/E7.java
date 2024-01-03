@@ -23,5 +23,9 @@ public class E7 {
             System.out.print(palabras[i]+"\t");
         }
         // LO PROXIMO ES MOSTRAR PALABRA ALEATORIA
+        for (int i = 0; i < palabras.length; i++) {
+
+
+        }
     }
 }

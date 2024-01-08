@@ -49,8 +49,8 @@ public class E7 {
         //MOSTRAR PALABRA CON MAS LETRAS Y CON MENOS
        // if (palabras.split("")[0]>){
 
-        }
-        }
+
+
 
         }
     }
